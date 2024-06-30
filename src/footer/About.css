@@ -1,0 +1,26 @@
+.about_page_container{
+    background-image: url('https://image.shutterstock.com/image-illustration/abstract-connection-background-plexus-3d-260nw-1418521592.jpg');
+    padding: 20px;
+    border-radius: 20px;
+    background-size: cover;
+}
+.about_page_heading{
+    color: white;
+    font-family: cursive;
+    font-size: 25px;
+    padding: 10px;
+    margin: 25px;
+}
+.about_page_discription{
+    font-family: cursive;
+    color: white;
+    margin: 25px;
+}
+.about_page_lines{
+    color: white;
+    margin: 25px;
+}
+.about_page_img{
+    margin: 20px;
+    border-radius: 10px;
+}

@@ -1,0 +1,28 @@
+.footer_container{
+    
+    background-color: black;
+    padding: 60px;
+}
+.footer_card{
+    margin: 20px;
+    
+}
+.footer_card_heading{
+    font-family: cursive;
+    color: white;
+    font-size: 20px;
+    
+}
+.footer_social_media_icons{
+    border-radius: 35px;
+    border-width: 0px;
+    
+}
+.footer_card_text{
+    color: rgb(156, 155, 155);
+    font-family: cursive;
+   
+}
+.Footer_section1_link{
+    text-decoration: none;
+}

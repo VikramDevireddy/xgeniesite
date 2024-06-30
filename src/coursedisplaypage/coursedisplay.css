@@ -1,0 +1,74 @@
+
+
+.coursedisplay_page{
+    background: url("./crsbg.jpg");
+    /* background-size: cover; */
+    height: 400px;
+    
+}
+#appreciation_text{
+   font-size: 15px;
+    left: 100px;
+    color: black;
+    align-content:left;
+}
+#main_heading{
+    color: blue;
+}
+.appreciation{
+    position: absolute;
+    left: 70px;
+}
+.cdimg{
+    height: 400px;
+    width: 500px;
+    position: absolute;
+    right: 0;
+}
+.text{
+    position: absolute;
+    left: 70px;
+    color: white;
+    top: 200px;
+}
+.text1 {
+    position: absolute;
+    left: 70px;
+    top: 300px;
+    font-size: 20px;
+    color: white;
+}
+.courceinfo p{
+    width: 900px;
+}
+#course-outline{
+    width: 100%;
+    /* height:500px; */
+    /* background-color:rgb(90, 158, 243); */
+}
+#lessons-map{
+    position: absolute;
+    left:120px;
+    align-items: flex-start;
+    text-align: start;
+    /* background-color: rgb(168, 214, 227); */
+    width: 60%;
+
+}
+/* #each-lesson{
+    text-align:start;
+} */
+#reviews{
+    width:100%;
+    position: absolute;
+    top:1500px;
+
+}
+#each-lesson:hover{
+    color: rgb(0, 26, 129);
+    
+}
+#outline-heading{
+    color: blue;
+}
+

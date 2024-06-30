@@ -1,0 +1,25 @@
+.location_page_container{
+    background-image: url('https://i1.wp.com/swagblue.com/wp2017/wp-content/uploads/2017/09/iStock-536620308.jpg?resize=768%2C512&ssl=1');
+    background-size: cover;
+    
+    border-radius: 15px;
+}
+.location_page_heading{
+    font-family: cursive;
+    font-size: 25px;
+    color: white;
+}
+.location_page_card{
+    margin: 50px;
+}
+.location_page_details{
+    font-family: cursive;
+    font-size: 20x;
+    color: white;
+}
+.location_page_img{
+    height: 270px;
+    width: 500px;
+    margin: 50px;
+    border-radius: 15px;
+}

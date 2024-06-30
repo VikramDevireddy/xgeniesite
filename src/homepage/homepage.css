@@ -1,0 +1,9 @@
+#carousel-image{
+    max-height:500px ;
+    max-width: 100%;
+    /* position: relative; */
+    /* left: 100px; */
+}
+.carousels{
+    background-color: white;
+}
